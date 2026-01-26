@@ -1,21 +1,21 @@
-## Idea behind Power Automate
+# Idea behind Power Automate
 
-# Power Automate
+## Power Automate
 - it tends to mimics the human task which are click based
 - inside the power automate consist of 3varient
     - orchestration model (worflow)
     - Connectors (actions)
     - infrastructure (script & result overview dashboard)
 
-# What is course about?
+## What is course about?
 - Master Power Automate: 
     - Automate any single worflow (simple, complex, multi-interaction) with no-code
     - leverage connectors to integrate automation into all your application
     - Understand Power Automate features like approval, AI, data operation and more
     - Build full end-to-end workflow automations from scratch (internal and external) based
 
-# course Roadmap? Supervsison based approach
-- Introduction 
+## Course Roadmap? Supervsison based approach
+### Introduction 
     - Beginner: (50 %)
         - Flow Creation
         - Expression
@@ -39,7 +39,7 @@
 
 - Environment Setup
 
-# Features of Power Automate:
+## Features of Power Automate:
 1. No-code/ easy to use and amaster
 2. Connectors (its comprehensive -gmail, outlook integration)
 3. Microsoft (fully-integrated)
@@ -49,15 +49,15 @@
 7. Generative AI ready - reading invoice
 8. Extensible (awesome)
 
-# keys to success
+## keys to success
 - do, don't watch
 - explore
 - Ask question / get involved
 
-# ways to reach out and contact instructor:
+## Ways to reach out and contact instructor:
 - link tree
 - Direct message
 - udemy Q&A
-    - linktr.ee/henrylearning
-    
+    [x] linktr.ee/henrylearning
+
 
