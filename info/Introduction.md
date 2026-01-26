@@ -95,7 +95,5 @@
 - Business Process flow: An application that guides users through predefined business stages and steps, ensuring processes are followed in the correct order with consistent data capture.
 - Deskstop flow: An application that automates manual, repetitive desktop tasks by simulating human actions across applications where APIs or integrations are not available.
 
-## Creating a Power Automate flow from scratch
-- conectors: are group of action to the specific software
 
 

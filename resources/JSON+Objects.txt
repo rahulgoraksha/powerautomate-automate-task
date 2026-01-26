@@ -1,0 +1,31 @@
+JSON!
+
+ | Tennis | Watching TV | Coding 
+
+{
+	"name": "Henry",
+	"profession": "Consultant",
+	"location": {"Country": "Canada", "City": "XXX"},
+	"Interests": [
+		{"name": "Tennis", "level": "high"}, 
+		{"name": "Watching TV", "level": "medium"}, 
+		{"name": "Coding", "level": "low"}
+	]
+}
+
+{
+	"name": "Henry",
+	"profession": "Consultant",
+	"location": {"Country": "Canada", "City": "XXX"},
+	"Interests": [
+		"Tennis", 
+		"Watching TV",
+		"Coding"
+	]
+}
+
+{
+	"name": "Taylor Swift",
+	"profession": "Singer",
+	"location": "USA"
+}
