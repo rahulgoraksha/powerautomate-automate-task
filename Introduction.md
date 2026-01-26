@@ -60,4 +60,24 @@
 - udemy Q&A
 - [x] linktr.ee/henrylearning
 
+## Power Automate Platform Walkthrough
+![Power Automate](image.png)
+1. create worflows
+2. Templates
+3. My flows
+4. Environments
+
+## What is Power Automate Flow?
+### What is a flow?
+- It is a visual representation of any task (Trigger-Action)
+- Trigger: activate the workflow
+- Action: series of steps followed after Trigger
+
+| Trigger | Action |
+|---------|--------|
+|Email    | Add row in excel|
+|Click    | Slack Message|
+|Time    | File Movement|
+
+
 
