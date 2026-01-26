@@ -16,23 +16,23 @@
 
 ## Course Roadmap? Supervsison based approach
 ### Introduction 
-    - Beginner: (50 %)
-        - Flow Creation
-        - Expression
-        - Conditions
-        - Management 
-        - Templates & Copilot 
-    - Intermediate: (90 %)
-        - Variables
-        - Data Interaction - excel based 
-        - Loops
-        - Approvals - user input
-        - AI Hub 
-    - Advanced : (100 %)
-        - Data Operation
-        - HTTP Requests - API
-        - Power Apps / Copilot Studios
-        - Dev Mode
+- Beginner: (50 %)
+    - Flow Creation
+    - Expression
+    - Conditions
+    - Management 
+    - Templates & Copilot 
+- Intermediate: (90 %)
+    - Variables
+    - Data Interaction - excel based 
+    - Loops
+    - Approvals - user input
+    - AI Hub 
+- Advanced : (100 %)
+    - Data Operation
+    - HTTP Requests - API
+    - Power Apps / Copilot Studios
+    - Dev Mode
 
 - Full End-to-End workflow
 - Conclusion
