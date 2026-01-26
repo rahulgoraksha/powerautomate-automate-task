@@ -79,5 +79,21 @@
 |Click    | Slack Message|
 |Time    | File Movement|
 
+- flow can have a multiple actions: Trigger --> Action 1 --> Action 2 --> Action 3
+- flow can have condition, loops and human-input
+
+### Type of Flow?
+![Types of flow](image-1.png)
+
+- Automatd Cloud flow: Runs automatically when something happens (like receiving an email or a new file being added).
+- Instant Cloud flow: Runs immediately when you manually click a button or trigger it yourself.
+- Schedule Cloud flow: Runs automatically at a fixed time or interval (daily, weekly, monthly).
+- Describe it to design it: You explain what you want in simple words, and Copilot helps create the flow for you.
+- Deskstop flow: Automates tasks on your computer by mimicking human actions like clicks, typing, and copying.
+- Process mining: Analyzes real system data to show how a business process actually runs and where it can be improved.
+
+- Business Process flow: An application that guides users through predefined business stages and steps, ensuring processes are followed in the correct order with consistent data capture.
+- Deskstop flow: An application that automates manual, repetitive desktop tasks by simulating human actions across applications where APIs or integrations are not available.
+
 
 
