@@ -58,6 +58,6 @@
 - link tree
 - Direct message
 - udemy Q&A
-    [x] linktr.ee/henrylearning
+- [x] linktr.ee/henrylearning
 
 
